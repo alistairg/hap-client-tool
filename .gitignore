@@ -4,3 +4,4 @@ binding.gyp
 build/
 native/
 src/hap-client-tools-unlock.js
+/.idea
